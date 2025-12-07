@@ -88,4 +88,3 @@ vendas = [
 
 ## 👩‍💻 Desenvolvido por
 Arielle Beatriz Domingos da Silva
-Estudante de Análise e Desenvolvimento de Sistemas
